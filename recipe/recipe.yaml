@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.7.0"
+  version: "1.7.1"
 
 package:
   name: idutils
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/idutils/idutils-${{ version }}.tar.gz
-  sha256: 848702d9b953a34ba597ac9fd04823fa2ace9dafda3924e91bcf349223cd7442
+  sha256: f2e1b860d117e5389adaddb3b67a17b90a17fb428b59351bab6ecf74e64608a3
 
 build:
   number: 0
